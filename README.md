@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/badge/theeoneeclarin.com-black?logo=Google-Chrome&logoColor=white&link=https://theoneeclarin.com)](https://theoneeclarin.com)
 [![Linkedin](https://img.shields.io/badge/in/theoneeclarin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/theoneeclarin/)](https://www.linkedin.com/in/theoneeclarin/)
-[![Youtube](https://img.shields.io/badge/@daawaan4U-FF0000?logo=youtube&logoColor=white&link=https://www.youtube.com/@daawaan4U)](https://www.youtube.com/@daawaan4U)
-[![Reddit](https://img.shields.io/badge/u/daawaan4U-FF4500?logo=reddit&logoColor=white&link=https://reddit.com/user/u/daawaan4U/)](https://reddit.com/user/u/daawaan4U/)
 [![Leetcode](https://img.shields.io/badge/@theoneeclarin-black?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/theoneeclarin/)](https://leetcode.com/theoneeclarin/)
 
 Welcome to my profile! I'm an undergraduate _Computer Science_ student, a Technical Minecrafter, and a Software Developer. I'm primarily interested in Creative Coding for Procedural Animations & Data Visualization.
