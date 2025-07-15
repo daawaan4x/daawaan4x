@@ -19,5 +19,6 @@ Welcome to my profile! I'm an undergraduate _Computer Science_ student, a Techni
 
 ## Live Projects
 
-- 🗺️ [**pathfinding**](https://pathfinding.theoneeclarin.com/) - visualize A\* on custom mazes
-- 🟰 [**ttg**](https://ttg.theoneeclarin.com/) - truth table generator for propositional logic
+- ⛰️ [**geoplot**](https://geoplot.theoneeclarin.com/) - verify and visualize technical descriptions of lots/surveys.
+- 🗺️ [**pathfinding**](https://pathfinding.theoneeclarin.com/) - test and visualize A\* on user-submitted customizable mazes.
+- 🟰 [**ttg**](https://ttg.theoneeclarin.com/) - truth table generator for propositional logic formulas.
