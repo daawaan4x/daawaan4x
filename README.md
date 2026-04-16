@@ -1,4 +1,4 @@
-My name is _Theone_ (pronounced: th-ey-on), I'm a Technical Minecrafter, a Computer Science student, and a Software Developer. I'm currently helping build a 🐾 [24/7 livestream feeding platform for campus strays](https://github.com/daawaan4x/pakamew). Here are some other things I've also worked on:
+My name is _Theone_ (pronounced: th-ey-on), I'm a Technical Minecrafter, a Computer Science student, and a Software Developer. I'm currently helping build a 🐾 [24/7 livestream feeding platform for campus strays](https://github.com/mmsu-pawpatrol/pakamew). Here are some other things I've also worked on:
 
 - ⛰️ [An interactive visualization for lots/surveys using their technical descriptions](https://github.com/daawaan4x/geoplot)
 - 🗺️ [Multi-destination route-planner for our province, Ilocos Norte 🇵🇭](https://github.com/daawaan4x/tour-in)
