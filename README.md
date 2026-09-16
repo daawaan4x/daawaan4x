@@ -1,4 +1,4 @@
-My name is _Theone_ (pronounced: th-ey-on), I'm a Technical Minecrafter, a Computer Science student, and a Software Developer. 
+My name is _Theone_ (pronounced: th-ey-on), I'm a Technical Minecrafter, a Computer Science student, and a Software Developer (2+ YOE). 
 
 I am currently pursuing my undergraduate thesis in background-noise estimation for denoising astronomical images 🌌. Here are some of other things I've worked on:
 
